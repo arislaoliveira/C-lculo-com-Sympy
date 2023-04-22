@@ -1,1 +1,1 @@
-# C-lculo-com-Sympy
+# Cálculo-com-Sympy
