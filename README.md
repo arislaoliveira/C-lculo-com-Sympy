@@ -1,4 +1,4 @@
-## Cálculo com Sympy
+# 📈 Cálculo com Sympy
 
 Repositório destinado ao auxilio no cálculo de **Integrais e Derivadas**. 
 
